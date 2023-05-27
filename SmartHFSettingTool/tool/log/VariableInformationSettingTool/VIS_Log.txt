@@ -1,0 +1,72 @@
+2023-05-27 16:14:40 [INFO] SmartHFManagerFrm - main - Start application.
+2023-05-27 16:14:40 [INFO] ConfigManager - loadSmartHFConfig - Start load config
+2023-05-27 16:14:40 [INFO] ConfigManager - loadSmartHFConfig - End load config
+2023-05-27 16:14:40 [INFO] SmartHFManagerFrm - <init> - Start HF main windows
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Start CommonUtils.readPropertyFile()
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Displayname: CopyOf _IndexAssign
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Iconname: 
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Comment: 
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Created: 1319623144578
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - LastModified: 1684920624463
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Activation: true
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - End CommonUtils.readPropertyFile()
+2023-05-27 16:14:40 [INFO] CommonUtils - readRulePropertyFile - Start CommonUtils.readRulePropertyFile()
+2023-05-27 16:14:40 [INFO] CommonUtils - readRulePropertyFile - Script: CreateJobAndRegisterContent.js
+2023-05-27 16:14:40 [INFO] CommonUtils - readRulePropertyFile - Rule: %Job%_%JobTpl%_[%IndexSt%-%IndexEn%]
+2023-05-27 16:14:40 [INFO] CommonUtils - readRulePropertyFile - End CommonUtils.readRulePropertyFile()
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Start CommonUtils.readPropertyFile()
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Displayname: dsds
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Iconname: 
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Comment: 
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Created: 1685080397274
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - LastModified: 1685080397274
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Activation: true
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - End CommonUtils.readPropertyFile()
+2023-05-27 16:14:40 [INFO] CommonUtils - readRulePropertyFile - Start CommonUtils.readRulePropertyFile()
+2023-05-27 16:14:40 [INFO] CommonUtils - readRulePropertyFile - Script: 
+2023-05-27 16:14:40 [INFO] CommonUtils - readRulePropertyFile - Rule: dsds%Job%_%JobTpl%-%InputSt%-%IndexSt%-
+2023-05-27 16:14:40 [INFO] CommonUtils - readRulePropertyFile - End CommonUtils.readRulePropertyFile()
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Start CommonUtils.readPropertyFile()
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Displayname: newrule
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Iconname: 
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Comment: 
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Created: 1685080280815
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - LastModified: 1685080280824
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Activation: true
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - End CommonUtils.readPropertyFile()
+2023-05-27 16:14:40 [INFO] CommonUtils - readRulePropertyFile - Start CommonUtils.readRulePropertyFile()
+2023-05-27 16:14:40 [INFO] CommonUtils - readRulePropertyFile - Script: 
+2023-05-27 16:14:40 [INFO] CommonUtils - readRulePropertyFile - Rule: newrule%Job%_%JobTpl%_%InputSt%-%JobID%+
+2023-05-27 16:14:40 [INFO] CommonUtils - readRulePropertyFile - End CommonUtils.readRulePropertyFile()
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Start CommonUtils.readPropertyFile()
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Displayname: _FolioAssign
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Iconname: 
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Comment: 
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Created: 1319623238437
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - LastModified: 1319623238453
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Activation: true
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - End CommonUtils.readPropertyFile()
+2023-05-27 16:14:40 [INFO] CommonUtils - readRulePropertyFile - Start CommonUtils.readRulePropertyFile()
+2023-05-27 16:14:40 [INFO] CommonUtils - readRulePropertyFile - Script: CreateJobAndRegisterContent.js
+2023-05-27 16:14:40 [INFO] CommonUtils - readRulePropertyFile - Rule: %Job%_%JobTpl%_{%NombleStr%_+%NombleLen%}
+2023-05-27 16:14:40 [INFO] CommonUtils - readRulePropertyFile - End CommonUtils.readRulePropertyFile()
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Start CommonUtils.readPropertyFile()
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Displayname: _IndexAssign
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Iconname: 
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Comment: 
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Created: 1319623144578
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - LastModified: 1319623144734
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - Activation: true
+2023-05-27 16:14:40 [INFO] CommonUtils - readPropertyFile - End CommonUtils.readPropertyFile()
+2023-05-27 16:14:40 [INFO] CommonUtils - readRulePropertyFile - Start CommonUtils.readRulePropertyFile()
+2023-05-27 16:14:40 [INFO] CommonUtils - readRulePropertyFile - Script: CreateJobAndRegisterContent.js
+2023-05-27 16:14:40 [INFO] CommonUtils - readRulePropertyFile - Rule: %Job%_%JobTpl%_[%IndexSt%-%IndexEn%]
+2023-05-27 16:14:40 [INFO] CommonUtils - readRulePropertyFile - End CommonUtils.readRulePropertyFile()
+2023-05-27 16:14:41 [INFO] SmartHFGroupBtnPnl - init - Start
+2023-05-27 16:14:41 [INFO] SmartHFGroupBtnPnl - installListener - Start installListener 
+2023-05-27 16:14:41 [INFO] SmartHFGroupBtnPnl - initListenerActionMap - Set action map
+2023-05-27 16:14:41 [INFO] SmartHFGroupBtnPnl - initListenerActionMap - End set action map.
+2023-05-27 16:14:41 [INFO] SmartHFGroupBtnPnl - installListener - End installListener
+2023-05-27 16:14:41 [INFO] SmartHFManagerFrm - init - Start.
+2023-05-27 16:14:41 [INFO] SmartHFManagerFrm - init - End.
+2023-05-27 16:14:41 [INFO] SmartHFManagerFrm - <init> - End.

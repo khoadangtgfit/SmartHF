@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/lib/ext/log4j-1.2.15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/commonutil.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ui_feature.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/swingx-1.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/app_form.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/app_server.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/app_unit.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/eqimp_core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/job_body.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/job_server.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ui_common.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/leg_common.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/leg_flc.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/leg_jmf.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/leg_rlx.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/leg_ruleEngine.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/leg_server.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/leg_utility.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/net.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/plaf.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/plugin.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/rac.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/base/utility.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/activation.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/ant.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/apple-extensions-laf.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/apple-extensions.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/commons-collections-3.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/commons-httpclient.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/commons-io-1.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/commons-lang-2.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/gluegen-rt.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/jai_codec.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/jai_core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/jai_imageio.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/JDFLib.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/JDFLibJ-2.1.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/jogl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/js.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/mail.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/resolver.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/serializer.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/TimingFramework-1.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/tools.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/truezip-6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/Utf8Resource.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/webdav.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/xercesImpl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ext/xml-apis.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../../EquiosCenter/tool/lib/common/app_unit.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../../EquiosCenter/tool/lib/common/cl_sysinfo.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../../EquiosCenter/tool/lib/common/sbrt_utility.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../../EquiosCenter/tool/lib/common/ui_common.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../../EquiosCenter/tool/lib/common/ui_feature.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../../../EquiosCenter/tool/lib/common/ui_launcher.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="J2SE-1.5" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="log4j-1.2.15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/log4j-1.2.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commonutil.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/commonutil.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ui_feature.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ui_feature.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="swingx-1.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/swingx-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="app_form.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/app_form.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="app_server.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/app_server.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="app_unit.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/app_unit.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="eqimp_core.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/eqimp_core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="job_body.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/job_body.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="job_server.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/job_server.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ui_common.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ui_common.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="leg_common.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/leg_common.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="leg_flc.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/leg_flc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="leg_jmf.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/leg_jmf.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="leg_rlx.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/leg_rlx.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="leg_ruleEngine.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/leg_ruleEngine.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="leg_server.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/leg_server.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="leg_utility.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/leg_utility.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="net.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/net.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="plaf.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/plaf.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="plugin.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/plugin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rac.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/rac.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="utility.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/base/utility.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="activation.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/activation.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ant.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/ant.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="apple-extensions-laf.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/apple-extensions-laf.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="apple-extensions.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/apple-extensions.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-collections-3.2.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/commons-collections-3.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-httpclient.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/commons-httpclient.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io-1.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/commons-io-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang-2.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/commons-lang-2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gluegen-rt.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/gluegen-rt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jai_codec.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/jai_codec.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jai_core.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/jai_core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jai_imageio.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/jai_imageio.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="JDFLib.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/JDFLib.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="JDFLibJ-2.1.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/JDFLibJ-2.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jogl.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/jogl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="js.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/js.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mail.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/mail.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="resolver.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/resolver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="serializer.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/serializer.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="TimingFramework-1.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/TimingFramework-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tools.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/tools.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="truezip-6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/truezip-6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Utf8Resource.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/Utf8Resource.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="webdav.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/webdav.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xercesImpl.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/xercesImpl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xml-apis.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ext/xml-apis.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$MODULE_DIR$/../../../../EquiosCenter/tool/lib/common/app_unit.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../EquiosCenter/tool/lib/common/app_unit.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cl_sysinfo.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../EquiosCenter/tool/lib/common/cl_sysinfo.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sbrt_utility.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../EquiosCenter/tool/lib/common/sbrt_utility.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$MODULE_DIR$/../../../../EquiosCenter/tool/lib/common/ui_common.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../EquiosCenter/tool/lib/common/ui_common.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="$MODULE_DIR$/../../../../EquiosCenter/tool/lib/common/ui_feature.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../EquiosCenter/tool/lib/common/ui_feature.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ui_launcher.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../EquiosCenter/tool/lib/common/ui_launcher.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
